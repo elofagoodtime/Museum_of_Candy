@@ -1,1 +1,1 @@
-This was a code-along project through a Udemy course called The Web Developer Bootcamp 2023, using HTML, CSS, Bootstrap, JavaScript, and JQuery.
+This was a code-along project through a Udemy course called The Web Developer Bootcamp 2023, using HTML, CSS, Bootstrap, JavaScript, and jQuery. However, I personalized several aspects of the project, including changing font colors, modifying the nav bar to my liking, and adding alt text.
